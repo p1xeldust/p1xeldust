@@ -1,16 +1,14 @@
-### Hi there 👋
+### Good$DAYTIME everyone 👋
 
-<!--
-**p1xeldust/p1xeldust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paul Goldstein, nice to meet ya!  
 
-Here are some ideas to get you started:
+Im beginning C/C++ programmer and system administrator  
+⭐ Currently Im working on ***microsh*** and ***pako--***, feel free to contribute ^_^  
+<sup><sub>actually some help's wanted with code review and other stuff...</sub></sup>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 There is how you can contact me:
+* Matrix: @pixeldust:matrix.org
+* Telegram: https://t.me/p1xeldust
+* E-mail:   pixeldustp@gmail.com
+
+
